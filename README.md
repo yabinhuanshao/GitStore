@@ -1,2 +1,0 @@
-# GitStore
-git store
